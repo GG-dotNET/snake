@@ -1,0 +1,12 @@
+/Users/lieberman/Documents/Projects/Snake/snake/bin/Debug/netcoreapp3.1/Snake.deps.json
+/Users/lieberman/Documents/Projects/Snake/snake/bin/Debug/netcoreapp3.1/Snake.runtimeconfig.json
+/Users/lieberman/Documents/Projects/Snake/snake/bin/Debug/netcoreapp3.1/Snake.runtimeconfig.dev.json
+/Users/lieberman/Documents/Projects/Snake/snake/bin/Debug/netcoreapp3.1/Snake.dll
+/Users/lieberman/Documents/Projects/Snake/snake/bin/Debug/netcoreapp3.1/Snake.pdb
+/Users/lieberman/Documents/Projects/Snake/snake/obj/Debug/netcoreapp3.1/Snake.csprojAssemblyReference.cache
+/Users/lieberman/Documents/Projects/Snake/snake/obj/Debug/netcoreapp3.1/Snake.csproj.CoreCompileInputs.cache
+/Users/lieberman/Documents/Projects/Snake/snake/obj/Debug/netcoreapp3.1/Snake.AssemblyInfoInputs.cache
+/Users/lieberman/Documents/Projects/Snake/snake/obj/Debug/netcoreapp3.1/Snake.AssemblyInfo.cs
+/Users/lieberman/Documents/Projects/Snake/snake/obj/Debug/netcoreapp3.1/Snake.dll
+/Users/lieberman/Documents/Projects/Snake/snake/obj/Debug/netcoreapp3.1/Snake.pdb
+/Users/lieberman/Documents/Projects/Snake/snake/obj/Debug/netcoreapp3.1/Snake.genruntimeconfig.cache
