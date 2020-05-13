@@ -1,20 +1,20 @@
 ﻿<Properties StartupConfiguration="{6BFF09A6-61C6-459A-AA1E-A4D4DC599EA3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Snake.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="22" Column="1" />
+      <File FileName="Program.cs" Line="49" Column="1" />
       <File FileName="Point.cs" />
       <File FileName="HorizontalLine.cs" />
       <File FileName="VerticalLine.cs" />
       <File FileName="Figure.cs" />
-      <File FileName="Snake.cs" Line="4" Column="23" />
-      <File FileName="Direction.cs" Line="1" Column="1" />
+      <File FileName="Snake.cs" />
+      <File FileName="Direction.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Snake" expanded="True">
             <Node name="Snake" expanded="True">
-              <Node name="Snake.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
