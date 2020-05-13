@@ -16,7 +16,7 @@ namespace Snake
             sym = _sym;
         }
 
-        // Конструктор - задатть точки с помощью другой точки
+        // Конструктор - задать точки с помощью другой точки
         public Point(Point p)
         {
             x = p.x;
@@ -37,12 +37,21 @@ namespace Snake
                 x = x - offset;
         }
 
-        public void Drow()
+        
+        // Метод отрисовки точки
+        public void Draw()
         {
             Console.SetCursorPosition(x, y);
             Console.Write(sym);
         }
 
-               
+
+        // Метод стирает точку
+        public void Clear()
+        {
+            sym = ' ';
+            Draw();
+        }
+
     }
 }
