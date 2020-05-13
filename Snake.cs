@@ -38,15 +38,15 @@ namespace Snake
             return nextPoint;
         }
 
-        public void HandleKey(ConsoleKeyInfo key)
+        public void HandleKey(ConsoleKey key)
         {
-            if (key.Key == ConsoleKey.LeftArrow)
+            if (key == ConsoleKey.LeftArrow)
                 direction = Direction.LEFT;
-            else if (key.Key == ConsoleKey.RightArrow)
+            else if (key == ConsoleKey.RightArrow)
                 direction = Direction.RIGHT;
-            else if (key.Key == ConsoleKey.UpArrow)
+            else if (key == ConsoleKey.UpArrow)
                 direction = Direction.UP;
-            else if (key.Key == ConsoleKey.DownArrow)
+            else if (key == ConsoleKey.DownArrow)
                 direction = Direction.DOWN;
         }
     }
